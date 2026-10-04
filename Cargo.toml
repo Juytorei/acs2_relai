@@ -1,0 +1,7 @@
+[package]
+name = "relay_acs2"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+socket2 = { version = "0.5", features = ["all"] }
